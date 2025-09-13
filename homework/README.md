@@ -6,7 +6,7 @@ despliegue de modelos de machine learning.
 **Parte 1**.--- Entrene un modelo de machine learning en scikit-learn que permita 
 pronosticar el precio de una casa a partir de sus propiedades. La data
 para el entrenamiento del modelo se encuenctra en el archivo `house_data.csv`. 
-El modelo usa las columnas 
+El modelo usa las columnas.
 
 * "bedrooms",
   
